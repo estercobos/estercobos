@@ -46,7 +46,3 @@
 <img src="https://raw.githubusercontent.com/zorahmoon/zorahmoon/output/snake.svg" alt="Snake animation" />
 
 ###
-
-![Snake animation] (https://github.com/zorahmoon/zorahmoon/blob/output/github-contribution-grid-snake.svg
-
-[![read](https://github-readme-stats.vercel.app/api/pin/?zorahmoon=zorahmoon&repo=zorahmoon&theme=react)](https://github.com/zorahmoon/zorahmoon)
