@@ -39,10 +39,6 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/e9/f4/3c/e9f43c04be31b52741f470b998f21188.gif"  />
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/zorahmoon/zorahmoon/output/snake.svg" alt="Snake animation" />
