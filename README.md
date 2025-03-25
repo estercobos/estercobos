@@ -36,4 +36,5 @@
 
 <br clear="both" />
 
-![Snake animation](https://github.com/zorahmoon/zorahmoon/blob/main/dist/github-contribution-grid-snake.svg)
+<!-- Link para a cobrinha com fundo escuro -->
+![Snake animation](https://github.com/zorahmoon/zorahmoon/blob/main/dist/github-contribution-grid-snake-dark.svg)
