@@ -26,4 +26,4 @@ jobs:
           message: "Atualizando cobrinha 🐍"
           add: "dist/*.svg"
           default_author: github_actions
-          token: ${{ secrets.GH_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
