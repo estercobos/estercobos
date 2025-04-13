@@ -24,17 +24,3 @@
 </div>
 
 ###
-
-<br clear="both" />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zorahmoon&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zorahmoon&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</div>
-
-###
-
-<br clear="both" />
-
-<!-- Link para a cobrinha com fundo escuro -->
-![Snake animation](https://github.com/zorahmoon/zorahmoon/blob/main/dist/github-contribution-grid-snake-dark.svg)
