@@ -1,11 +1,12 @@
-<h2 align="center">Oi 👋! Eu sou a Ester — futura Analista de Sistemas, exploradora de códigos nas horas vagas e entusiasta profissional de café ☕💥
-Tô mergulhada no universo do back-end, estudando Análise e Desenvolvimento de Sistemas enquanto domo Java, C, Python e uma lista infinita de "coisas que ainda preciso aprender".
+<h2 align="center">Oi, tudo bom? Eu sou a Ester 🤓 estudante de Análise e Desenvolvimento de Sistemas — e sim, ainda tô tentando entender como sobreviver ao back-end sem perder a sanidade ☕💥
 
-Acredito que um bom código é igual a uma boa piada: se precisa explicar, é porque não tá tão bom assim 😎
-Acessibilidade, arquitetura limpa e resolver problemas de verdade são meu norte. Bugs? Eu como no café da manhã (ok… às vezes eles me dão uma surra antes).
+Java, C, Python, SQL... meu cérebro é praticamente um compilador emocional em tempo real 😅
+Amo quando o código flui, odeio quando o bug some sozinho (porque eu sei que ele vai voltar).
 
-Fora das telas, curto jogos FPS, mergulhos filosóficos aleatórios e tentar entender o caos — tanto da tecnologia quanto da vida.
-Bora construir algo que faça sentido. Ou pelo menos que compile. 🚀</h2>
+Acessibilidade e código limpo são minhas metas. Isso e não quebrar produção.
+Fora da bolha dev, me escondo em jogos, teorias conspiratórias e aquele papo cabeça sobre “qual o sentido de tudo isso?” 👾🧠
+
+Se der certo, show. Se não der, a gente faz um rollback e tenta de novo 🚀🛠️</h2>
 
 ###
 
