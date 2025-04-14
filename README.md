@@ -1,4 +1,11 @@
-<h2 align="center">Hi 👋! I'm Ester — future Systems Analyst, current code explorer, and full-time coffee enthusiast ☕💥  <br>I’m diving deep into the backend world, studying Systems Analysis and Development while juggling Java, C, Python, and a dangerously long to-learn list.<br><br>I believe good code is like a good joke: if you have to explain it, it’s not that good 😎  <br>Accessibility, clean architecture, and solving real problems are my north. Bugs? I eat them for breakfast (ok, sometimes they eat me first).<br><br>Outside the screen, I’m into FPS games, philosophical rabbit holes, and making sense of the chaos — in tech and in life.  <br>Let's build things that matter. Or at least that compile. 🚀</h2>
+<h2 align="center">Oi 👋! Eu sou a Ester — futura Analista de Sistemas, exploradora de códigos nas horas vagas e entusiasta profissional de café ☕💥
+Tô mergulhada no universo do back-end, estudando Análise e Desenvolvimento de Sistemas enquanto domo Java, C, Python e uma lista infinita de "coisas que ainda preciso aprender".
+
+Acredito que um bom código é igual a uma boa piada: se precisa explicar, é porque não tá tão bom assim 😎
+Acessibilidade, arquitetura limpa e resolver problemas de verdade são meu norte. Bugs? Eu como no café da manhã (ok… às vezes eles me dão uma surra antes).
+
+Fora das telas, curto jogos FPS, mergulhos filosóficos aleatórios e tentar entender o caos — tanto da tecnologia quanto da vida.
+Bora construir algo que faça sentido. Ou pelo menos que compile. 🚀</h2>
 
 ###
 
