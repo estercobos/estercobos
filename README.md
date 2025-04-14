@@ -1,12 +1,4 @@
-<h2 align="center">Oi, tudo bom? Eu sou a Ester 🤓 estudante de Análise e Desenvolvimento de Sistemas — e sim, ainda tô tentando entender como sobreviver ao back-end sem perder a sanidade ☕💥
-
-Java, C, Python, SQL... meu cérebro é praticamente um compilador emocional em tempo real 😅
-Amo quando o código flui, odeio quando o bug some sozinho (porque eu sei que ele vai voltar).
-
-Acessibilidade e código limpo são minhas metas. Isso e não quebrar produção.
-Fora da bolha dev, me escondo em jogos, teorias conspiratórias e aquele papo cabeça sobre “qual o sentido de tudo isso?” 👾🧠
-
-Se der certo, show. Se não der, a gente faz um rollback e tenta de novo 🚀🛠️</h2>
+<h2 align="center">Hi 👋! I'm Ester — future Systems Analyst, current code explorer, and full-time coffee enthusiast ☕💥  <br>I’m diving deep into the backend world, studying Systems Analysis and Development while juggling Java, C, Python, and a dangerously long to-learn list.<br><br>I believe good code is like a good joke: if you have to explain it, it’s not that good 😎  <br>Accessibility, clean architecture, and solving real problems are my north. Bugs? I eat them for breakfast (ok, sometimes they eat me first).<br><br>Outside the screen, I’m into FPS games, philosophical rabbit holes, and making sense of the chaos — in tech and in life.  <br>Let's build things that matter. Or at least that compile. 🚀</h2>
 
 ###
 
@@ -47,7 +39,6 @@ Se der certo, show. Se não der, a gente faz um rollback e tenta de novo 🚀�
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zorahmoon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=zorahmoon&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zorahmoon&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
