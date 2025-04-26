@@ -1,4 +1,29 @@
-<h2 align="center"># E aí, eu sou a Ester! 👩‍💻🚀<br><br>> Futura Engenheira de Software | Aventureira do Backend | Café na veia ☕<br><br>## 🌟 Quem sou eu<br><br>🔎 Exploradora oficial do universo da programação  <br>🎓 Estudando pra ser aquela Engenheira de Software que resolve pepino antes do café da manhã  <br>💻 Faço mágica (ou tento) com Java, C, Python e tudo que eu conseguir pôr na mochila<br><br>## 🤓 Meu lema<br><br>> "Código ruim se explica. Código bom se entende." 😎<br><br>- Defensora da acessibilidade e arquitetura limpinha  <br>- Resolvedora de bugs nível chefão (ou quase isso)<br><br>## 🎯 Fora dos códigos<br><br>- Jogadora de FPS nas horas vagas 🎮  <br>- Viajante de pensamentos filosóficos 🧠  <br>- Tentando domar o caos do mundo real (e do virtual também)<br><br>## 📬 Bora construir algo?<br><br>Se não for revolucionário, pelo menos que seja divertido... e compile! 🚀</h2>
+# E aí, eu sou a Ester! 👩‍💻🚀
+
+> Futura Engenheira de Software | Aventureira do Backend | Café na veia ☕
+
+## 🌟 Quem sou eu
+
+🔎 Exploradora oficial do universo da programação  
+🎓 Estudando pra ser aquela Engenheira de Software que resolve pepino antes do café da manhã  
+💻 Faço mágica (ou tento) com Java, C, Python e tudo que eu conseguir pôr na mochila
+
+## 🤓 Meu lema
+
+> "Código ruim se explica. Código bom se entende." 😎
+
+- Defensora da acessibilidade e arquitetura limpinha  
+- Resolvedora de bugs nível chefão (ou quase isso)
+
+## 🎯 Fora dos códigos
+
+- Jogadora de FPS nas horas vagas 🎮  
+- Viajante de pensamentos filosóficos 🧠  
+- Tentando domar o caos do mundo real (e do virtual também)
+
+## 📬 Bora construir algo?
+
+Se não for revolucionário, pelo menos que seja divertido... e compile! 🚀
 
 ###
 
