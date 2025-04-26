@@ -1,11 +1,11 @@
 # E aí, eu sou a Ester! 👩‍💻🚀
 
-> Estudante de Análise e Desenvolvimento de Sistemas | Aventureira do Backend | Café na veia ☕
+> Futura Engenheira de Software | Aventureira do Backend | Café na veia ☕
 
 ## 🌟 Quem sou eu
 
 🔎 Exploradora oficial do universo da programação  
-🎓 Estudando pra ser aquela Analista de Sistemas que resolve pepino antes do café da manhã  
+🎓 Estudando pra ser aquela Engenheira de Software que resolve pepino antes do café da manhã  
 💻 Faço mágica (ou tento) com Java, C, Python e tudo que eu conseguir pôr na mochila
 
 ## 🤓 Meu lema
