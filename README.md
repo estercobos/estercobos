@@ -47,8 +47,8 @@ Se não for revolucionário, pelo menos que seja divertido... e compile! 🚀
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
-
 ###
 
 <br clear="both">
