@@ -1,5 +1,25 @@
-<h2 align="left"># E aí, eu sou a Ester! 👩‍💻🚀<br><br>> Futura Engenheira de Software | Aventureira do Backend | Café na veia ☕<br><br>## 🌟 Quem sou eu<br><br>🔎 Exploradora oficial do universo da programação  <br>🎓 Estudando pra ser aquela Engenheira de Software que resolve pepino antes do café da manhã  <br>💻 Faço mágica (ou tento) com Java, C, Python e tudo que eu conseguir pôr na mochila<br><br>## 🤓 Meu lema<br><br>> "Código ruim se explica. Código bom se entende." 😎<br><br>- Defensora da acessibilidade e arquitetura limpinha  <br>- Resolvedora de bugs nível chefão (ou quase isso)<br><br>## 🎯 Fora dos códigos<br><br>- Jogadora de FPS nas horas vagas 🎮  <br>- Viajante de pensamentos filosóficos 🧠  <br>- Tentando domar o caos do mundo real (e do virtual também)<br><br>## 📬 Bora construir algo?<br><br>Se não for revolucionário, pelo menos que seja divertido... e compile! 🚀<br><br>
-###</h2>
+# E aí, eu sou a Ester! 👩‍💻🚀  
+> Futura Engenheira de Software | Aventureira do Backend | Café na veia ☕
+
+## 🌟 Quem sou eu  
+🔎 Exploradora oficial do universo da programação  
+🎓 Estudando pra ser aquela Engenheira de Software que resolve pepino antes do café da manhã  
+💻 Faço mágica (ou tento) com Java, C, Python e tudo que eu conseguir pôr na mochila  
+
+## 🤓 Meu lema  
+> _"Código ruim se explica. Código bom se entende."_ 😎  
+- Defensora da acessibilidade e da arquitetura limpinha  
+- Resolvedora de bugs nível chefão (ou quase isso)  
+
+## 🎯 Fora dos códigos  
+🎮 Jogadora de FPS nas horas vagas  
+🧠 Viajante de pensamentos filosóficos  
+🌪️ Tentando domar o caos do mundo real (e do virtual também)  
+
+## 📬 Bora construir algo?  
+Se não for revolucionário, pelo menos que seja divertido... e compile! 🚀
+
+<h2 align="left"></h2>
 
 ###
 
@@ -38,9 +58,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zorahmoon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=zorahmoon&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zorahmoon&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=estercobos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=estercobos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
