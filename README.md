@@ -12,9 +12,22 @@
 - Resolvedora de bugs nível chefão (ou quase isso)  
 
 ## 🎯 Fora dos códigos  
-🎮 Jogadora de FPS nas horas vagas  
-🧠 Viajante de pensamentos filosóficos  
-🌪️ Tentando domar o caos do mundo real (e do virtual também)  
+🎮 Viciada em jogos estilo Hollow Knight e ando explorando o universo de Warframe  
+📺 Fã de séries como Dexter, Dr. House, The Boys e The Office (humor ácido e caos médico é comigo mesma)  
+🌸 De vez em quando me pego assistindo um dorama ou anime, mas nada muito hardcore  
+📚 Leitora assídua de suspense e terror psicológico (se mexer com a mente, tô dentro)
+
+## 📂 Projetos em que meti o bedelho
+
+### 💅 [Site de Estética - Projeto Acadêmico]([https://github.com/estercobos/web_development](https://github.com/estercobos/web_development)
+
+Trabalho de faculdade desenvolvido em equipe. Contribuí adicionando interações aos botões do site, integrando o endereço da clínica com a API do Google Maps, além de ajustes e complementos em trechos do HTML e CSS, principalmente nas seções superior e inferior da página (como "Quem Somos" e "Contatos").
+
+🛠️ Tecnologias envolvidas: HTML, CSS, JavaScript, API Google Maps  
+🧪 Contribuição: lógica de interatividade nos botões, integração com Google Maps e refinamentos visuais no layout
+
+> Não fiz milagre, mas dei aquela organizada no rolê que deixou o site mais vivinho e funcional 💅✨
+
 
 ## 📬 Bora construir algo?  
 Se não for revolucionário, pelo menos que seja divertido... e compile! 🚀
