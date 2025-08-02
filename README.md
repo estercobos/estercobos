@@ -12,10 +12,14 @@
 - Resolvedora de bugs nível chefão (ou quase isso)  
 
 ## 🎯 Fora dos códigos  
-🎮 Viciada em jogos estilo Hollow Knight e ando explorando o universo de Warframe  
-📺 Fã de séries como Dexter, Dr. House, The Boys e The Office (humor ácido e caos médico é comigo mesma)  
-🌸 De vez em quando me pego assistindo um dorama ou anime, mas nada muito hardcore  
-📚 Leitora assídua de suspense e terror psicológico (se mexer com a mente, tô dentro)
+
+🎮 Apaixonada por jogos de plataforma e metroidvania (Celeste, Hollow Knight, Dead Cells, essas obras-primas que fazem chorar e suar ao mesmo tempo)  
+🧠 Amo jogos com histórias emocionantes, que parecem arrancar a alma pela tela — tipo Baldur’s Gate 3, Detroit: Become Human, Hellblade, Nier:Automata, Ori e até um bom Red Dead Redemption  
+🚚 Também curto aquela vibe relax de simulação (Euro Truck Simulator, SnowRunner, Hot Wheels Unleashed... dirigir pra fugir dos boletos, sabe?)  
+🎲 E não me limito: adoro umas loucurinhas aleatórias como Cult of the Lamb, Cuphead, Furi, Hades, Inscryption e Stardew Valley  
+👽 Mas o amor verdadeiro mesmo... é Warframe. Tenno até o fim.
+📺 No tempo livre, maratono doramas, animes ocasionais, e séries como Dexter, Dr. House, The Boys e The Office  
+📚 Leitora fiel de suspense e terror psicológico — quanto mais perturbador, melhor
 
 ## 📂 Projetos em que meti o bedelho
 
